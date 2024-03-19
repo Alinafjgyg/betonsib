@@ -1,10 +1,4 @@
 # betonsib
-<html lang='ru'>
-<head>
-
-<!-- Yandex.Metrika counter -->
-<noscript><div><img src="watch/73516071" style="position:absolute; left:-9999px;" alt=""></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
 	<title>Купить бетон с доставкой в Тюмени | Город</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
